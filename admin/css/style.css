@@ -1,0 +1,13 @@
+@media only screen and (max-width: 600px) {
+  #area_restrita {
+    width: 100%;
+    height: 100%;
+  }
+  .grecaptcha-badge {
+    display: none;
+  }
+}
+
+.margem_barra {
+  margin-bottom: 4rem !important;
+}
